@@ -1,0 +1,17 @@
+{
+  "name": "multistep-modal-example",
+  "version": "0.0.1",
+  "description": "multistep-modal-example",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "shoito",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^1.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
