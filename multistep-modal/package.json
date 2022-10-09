@@ -9,7 +9,7 @@
   "author": "shoito",
   "license": "MIT",
   "dependencies": {
-    "@slack/bolt": "^1.4.1"
+    "@slack/bolt": "^3.12.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.1"
